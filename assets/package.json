@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+      "esbuild": "^0.16.17",
+      "esbuild-plugin-import-glob": "^0.1.1",
+      "esbuild-svelte": "^0.7.4",
+      "svelte": "^4.1.2",
+      "svelte-grid": "^5.1.2",
+      "svelte-preprocess": "^5.0.4",
+      "typescript": "^4.9.5"
+  },
+  "dependencies": {
+      "lightweight-charts": "^4.1.2",
+      "live_svelte": "file:../deps/live_svelte",
+      "phoenix": "file:../deps/phoenix",
+      "phoenix_html": "file:../deps/phoenix_html",
+      "phoenix_live_view": "file:../deps/phoenix_live_view",
+      "svelte-grid-extended": "^1.1.4",
+      "svelte-lightweight-charts": "2.3.0-rc-2"
+  }
+}
